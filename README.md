@@ -44,7 +44,7 @@ LUMNE is currently under heavy development. We are perfecting the magic to ensur
 We are building LUMNE in public. Follow us as we redefine how the world communicates and thinks.
 
 - **Twitter/X**: [@LumneApp](https://x.com/LumneApp)
-- **GitHub**: [project-lumne](https://github.com/project-lumne)
+- **GitHub**: [project-lumne](https://github.com/ryo0221/project-lumne)
 
 *"Simplicity is the ultimate sophistication."* — LUMNE
 
