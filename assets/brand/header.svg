@@ -1,0 +1,32 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Deepest Obsidian Space -->
+  <rect width="1500" height="500" fill="#0A0A0A"/>
+  
+  <!-- Subtle Grid: The Blueprint of Thought (Logic) -->
+  <path d="M0 250H1500" stroke="white" stroke-opacity="0.03" stroke-width="1"/>
+  <path d="M1100 0V500" stroke="white" stroke-opacity="0.03" stroke-width="1"/>
+
+  <!-- The Beacon: Positioned on the right to balance the profile pic -->
+  <g transform="translate(1100, 250)">
+    <!-- Memory Halo -->
+    <circle cx="0" cy="0" r="180" stroke="white" stroke-opacity="0.05" stroke-width="1"/>
+    
+    <!-- The Moon: Amber Lume -->
+    <circle cx="0" cy="0" r="100" fill="url(#header_moon_glow)"/>
+    
+    <!-- Logic Filament (Vertical) -->
+    <rect x="-0.5" y="-200" width="1" height="400" fill="white" fill-opacity="0.4"/>
+  </g>
+
+  <!-- Typography: LUMNE -->
+  <text x="1000" y="265" text-anchor="end" fill="white" font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="48" letter-spacing="0.2em">LUMNE</text>
+  <text x="1000" y="300" text-anchor="end" fill="white" fill-opacity="0.4" font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="16" letter-spacing="0.1em">THE ARCHITECTURE OF THOUGHT</text>
+
+  <defs>
+    <radialGradient id="header_moon_glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0) rotate(90) scale(100)">
+      <stop stop-color="#FFEAD0" stop-opacity="0.8"/>
+      <stop offset="0.6" stop-color="#D4A276" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#804D26" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
