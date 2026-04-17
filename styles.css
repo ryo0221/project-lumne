@@ -279,7 +279,7 @@ h1 {
 
 .stage-media {
     position: relative;
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 16 / 10;
     overflow: hidden;
     border-radius: 22px;
     border: 1px solid rgba(255, 255, 255, 0.06);
@@ -290,8 +290,9 @@ h1 {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.62;
-    filter: saturate(0.95);
+    object-position: center top;
+    opacity: 1;
+    filter: saturate(0.98);
 }
 
 .slot-overlay {
@@ -302,7 +303,7 @@ h1 {
     padding: 18px 20px;
     border-radius: 18px;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    background: rgba(8, 8, 8, 0.8);
+    background: linear-gradient(180deg, rgba(8, 8, 8, 0.36), rgba(8, 8, 8, 0.88));
     backdrop-filter: blur(16px);
 }
 
@@ -406,7 +407,22 @@ h1 {
 }
 
 .media-slot--small {
-    min-height: 170px;
+    min-height: 210px;
+}
+
+.media-slot--image {
+    padding: 0;
+    overflow: hidden;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.08);
+    background: #050505;
+}
+
+.proof-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
 }
 
 .media-status {
