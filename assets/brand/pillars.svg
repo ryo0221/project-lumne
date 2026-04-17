@@ -26,7 +26,7 @@
     <circle r="90" stroke="white" stroke-opacity="0.3" stroke-width="1"/>
     <circle r="70" stroke="white" stroke-opacity="0.1" stroke-width="1"/>
     <text y="140" text-anchor="middle" fill="white" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="0.2em">MEMORY</text>
-    <text y="165" text-anchor="middle" fill="white" fill-opacity="0.4" font-family="Helvetica, Arial, sans-serif" font-size="12">Immutable Time Machine</text>
+    <text y="165" text-anchor="middle" fill="white" fill-opacity="0.4" font-family="Helvetica, Arial, sans-serif" font-size="12">Immutable Time Capsule</text>
   </g>
 
   <defs>

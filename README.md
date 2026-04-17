@@ -4,7 +4,14 @@
 
 ### Stop making slides. Start breathing life into your thoughts.
 
-LUMNE is a revolutionary presentation engine that fuses the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living time machine.
+LUMNE is a revolutionary presentation engine that fuses the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living Time Capsule.
+
+---
+
+## The Name
+
+LUMNE is named from **Lumen**, the Latin word for light, and the product's three pillars: **Logic**, **Intuition**, and **Memory**.
+It reflects our belief that unfinished thoughts should be illuminated by structure, shaped through touch and instinct, and preserved safely as a living memory.
 
 ---
 
@@ -12,7 +19,7 @@ LUMNE is a revolutionary presentation engine that fuses the **logic** of structu
 Traditional presentation tools steal your time. AI generators steal your control. 
 **LUMNE gives everything back to you.**
 
-Draft your story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with our integrated **Time Machine**. It’s not just a tool; it’s an extension of your mind.
+Draft your story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with our integrated **Time Capsule**. It’s not just a tool; it’s an extension of your mind.
 
 ---
 
@@ -26,8 +33,8 @@ Logic is the skeleton of persuasion. Draft your outline in **Plain Text**. No bo
 ### 2. Tactile Intuition (The Living Canvas)
 Intuition is the soul of design. Elements on your slide respond to your touch. Move a block, and the layout breathes around it. It’s direct manipulation, guided by a silent AI that understands the geometry of beauty.
 
-### 3. Infinite Safety (The Time Machine)
-Memory is the foundation of creativity. Every moment is preserved in a secure, local-first **Time Machine**. Travel back to an earlier direction, explore alternative paths, and branch your ideas without ever fearing a "wrong" move.
+### 3. Infinite Safety (Time Capsule)
+Memory is the foundation of creativity. Every moment is preserved in a secure, local-first **Time Capsule**. Travel back to an earlier direction, explore alternative paths, and branch your ideas without ever fearing a "wrong" move.
 
 ---
 

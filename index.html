@@ -12,50 +12,263 @@
 </head>
 <body>
     <nav class="navbar fade-in">
-        <div class="nav-logo">
+        <a class="nav-logo" href="#top" aria-label="LUMNE home">
             <img src="assets/brand/icon.png" alt="LUMNE" class="nav-icon">
             <span>LUMNE</span>
-        </div>
+        </a>
         <div class="nav-links">
-            <a href="https://github.com/ryo0221/project-lumne" target="_blank">GitHub</a>
-            <a href="https://x.com/LumneApp" target="_blank" class="cta-pill">Follow on X</a>
+            <a href="#previews">Previews</a>
+            <a href="#demo">Demo</a>
+            <a href="#notes">Build Notes</a>
+            <a href="https://github.com/ryo0221/project-lumne" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://x.com/LumneApp" target="_blank" rel="noopener noreferrer" class="cta-pill">Follow on X</a>
         </div>
     </nav>
 
-    <header class="hero">
-        <div class="hero-content">
-            <div class="hero-image-wrap scale-up">
-                <img src="assets/brand/icon.png" alt="LUMNE Beacon" class="hero-icon">
+    <header class="hero" id="top">
+        <div class="container hero-shell">
+            <div class="hero-copy">
+                <p class="eyebrow fade-in-up">A thought-to-slide environment</p>
+                <h1 class="fade-in-up delay-1">Stop making slides.<br>Start breathing life into your thoughts.</h1>
+                <p class="hero-subtitle fade-in-up delay-2">
+                    Structured text for logic, a living canvas for intuition, and a local-first
+                    Time Capsule for memory.
+                </p>
+                <p class="hero-note fade-in-up delay-2">
+                    This page is where Lumne will gradually open up: first screenshots, then short
+                    workflow demos, then sharper proof of what the product is becoming.
+                </p>
+                <div class="hero-actions fade-in-up delay-3">
+                    <a href="#previews" class="primary-button">See latest preview</a>
+                    <a href="#notes" class="ghost-button">Read build notes</a>
+                </div>
+                <div class="hero-badges fade-in-up delay-4">
+                    <span class="status-badge">Built in Tokyo</span>
+                    <span class="status-badge">Public Preview Journal</span>
+                    <span class="status-badge">Coming Soon</span>
+                </div>
             </div>
-            <h1 class="fade-in-up">Stop making slides.<br>Start breathing life into your thoughts.</h1>
-            <p class="hero-subtitle fade-in-up delay-1">LUMNE is a revolutionary presentation engine fusing logic, intuition, and memory.</p>
-            <div class="hero-actions fade-in-up delay-2">
-                <span class="status-badge">Built in Tokyo</span>
-                <span class="status-badge">Coming Soon</span>
+
+            <div class="hero-stage fade-in-up delay-3">
+                <div class="stage-frame">
+                    <div class="stage-meta">
+                        <span>Latest Preview Surface</span>
+                        <span>Slot 01</span>
+                    </div>
+                    <div class="stage-media">
+                        <img
+                            src="assets/brand/header.png"
+                            alt="LUMNE brand composition"
+                            class="stage-image"
+                        >
+                        <div class="slot-overlay">
+                            <p class="slot-label">Reserved for the first public authoring still</p>
+                            <p class="slot-caption">
+                                Replace this frame with the newest screenshot once the first
+                                workflow surface is ready to show.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
 
     <main>
-        <section class="pillars">
+        <section class="proof" id="previews">
             <div class="container">
-                <h2 class="section-title fade-in-up">The Three Pillars</h2>
+                <div class="section-heading fade-in-up">
+                    <p class="eyebrow">Latest Preview</p>
+                    <h2 class="section-title">A place for real proof, not just promises.</h2>
+                    <p class="section-intro">
+                        As Lumne becomes visible, this section can accumulate stills of the product
+                        itself. Each card is designed to be replaced with a real artifact without
+                        rebuilding the page.
+                    </p>
+                </div>
+
+                <div class="proof-grid">
+                    <article class="proof-card proof-card--featured fade-in-up delay-1">
+                        <div class="proof-card-header">
+                            <p class="card-kicker">Featured Still</p>
+                            <span class="card-status">Waiting for first screenshot</span>
+                        </div>
+                        <div class="media-slot media-slot--large">
+                            <span class="media-status">Screenshot slot</span>
+                            <p>
+                                Drop the newest end-to-end authoring still here. This frame is meant
+                                for the one image that best answers, "What does Lumne actually feel like?"
+                            </p>
+                        </div>
+                        <div class="proof-copy">
+                            <h3>Latest public product surface</h3>
+                            <p>
+                                Use this area for the most current still, a one-line caption, and a
+                                short explanation of what the viewer is seeing.
+                            </p>
+                        </div>
+                    </article>
+
+                    <article class="proof-card fade-in-up delay-2">
+                        <div class="proof-card-header">
+                            <p class="card-kicker">Workflow Detail</p>
+                            <span class="card-status">Placeholder</span>
+                        </div>
+                        <div class="media-slot media-slot--small">
+                            <span class="media-status">Screenshot slot</span>
+                            <p>Story-first editing or reference intake belongs here.</p>
+                        </div>
+                        <div class="proof-copy">
+                            <h3>Close-up proof</h3>
+                            <p>
+                                Reserve this card for a zoomed-in detail once one core workflow
+                                becomes worth showing on its own.
+                            </p>
+                        </div>
+                    </article>
+
+                    <article class="proof-card fade-in-up delay-3">
+                        <div class="proof-card-header">
+                            <p class="card-kicker">Canvas Detail</p>
+                            <span class="card-status">Placeholder</span>
+                        </div>
+                        <div class="media-slot media-slot--small">
+                            <span class="media-status">Screenshot slot</span>
+                            <p>Canvas interaction, layout movement, or Time Capsule history belongs here.</p>
+                        </div>
+                        <div class="proof-copy">
+                            <h3>Second angle</h3>
+                            <p>
+                                Keep a second still ready for visual variety so the page can show
+                                both product breadth and product depth over time.
+                            </p>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="demo" id="demo">
+            <div class="container demo-grid">
+                <div class="demo-copy fade-in-up">
+                    <p class="eyebrow">Demo Reel</p>
+                    <h2 class="section-title">Short workflow clips belong on the page itself.</h2>
+                    <p class="section-intro">
+                        When video is ready, this block can hold an embedded demo, a looping reel,
+                        or a short narrated walkthrough. The point is to let the product speak in motion.
+                    </p>
+
+                    <div class="demo-list">
+                        <div class="demo-item">
+                            <span class="demo-index">01</span>
+                            <div>
+                                <h3>References to story</h3>
+                                <p>Show how raw inputs become a slide plan without collapsing into a black box.</p>
+                            </div>
+                        </div>
+                        <div class="demo-item">
+                            <span class="demo-index">02</span>
+                            <div>
+                                <h3>Story to canvas</h3>
+                                <p>Show how structure and direct manipulation stay in the same flow.</p>
+                            </div>
+                        </div>
+                        <div class="demo-item">
+                            <span class="demo-index">03</span>
+                            <div>
+                                <h3>Time Capsule rewind</h3>
+                                <p>Show how safety feels, not just how it is described.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video-shell fade-in-up delay-1">
+                    <div class="video-placeholder">
+                        <span class="media-status">Video slot</span>
+                        <h3>First public workflow demo</h3>
+                        <p>
+                            Replace this panel with a hosted video, an embedded clip, or a looping
+                            product reel once a 60 to 90 second walkthrough is ready.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pillars" id="overview">
+            <div class="container">
+                <div class="section-heading fade-in-up">
+                    <p class="eyebrow">Overview</p>
+                    <h2 class="section-title">The Three Pillars</h2>
+                </div>
                 <div class="pillars-diagram fade-in-up delay-1">
                     <img src="assets/brand/pillars.png" alt="The Trinity: Logic, Intuition, Memory" class="responsive-img">
                 </div>
                 <div class="pillars-grid">
                     <div class="pillar-card fade-in-up delay-2">
                         <h3>Pure Logic</h3>
-                        <p>Logic is the skeleton of persuasion. Draft your outline in Plain Text. No boxes to drag, no fonts to fix—just your reasoning, organized and powerful.</p>
+                        <p>
+                            Logic is the skeleton of persuasion. Draft your outline in Plain Text.
+                            No boxes to drag, no fonts to fix, just your reasoning, organized and powerful.
+                        </p>
                     </div>
                     <div class="pillar-card fade-in-up delay-3">
                         <h3>Tactile Intuition</h3>
-                        <p>Intuition is the soul of design. Sculpt your visuals on a fluid canvas. Direct manipulation, guided by a silent AI that understands the geometry of beauty.</p>
+                        <p>
+                            Intuition is the soul of design. Sculpt your visuals on a fluid canvas.
+                            Direct manipulation, guided by a silent AI that respects the geometry of beauty.
+                        </p>
                     </div>
                     <div class="pillar-card fade-in-up delay-4">
                         <h3>Infinite Safety</h3>
-                        <p>Memory is the foundation of growth. Every moment is preserved in a living Time Machine. Travel back to yesterday's idea and never fear a wrong move again.</p>
+                        <p>
+                            Memory is the foundation of growth. Every moment is preserved in a living
+                            Time Capsule, so yesterday's idea is never lost when today's direction changes.
+                        </p>
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="notes" id="notes">
+            <div class="container">
+                <div class="section-heading fade-in-up">
+                    <p class="eyebrow">Build Notes</p>
+                    <h2 class="section-title">A public log of what is visible now, next, and later.</h2>
+                    <p class="section-intro">
+                        These cards can evolve into dated updates, release notes, or snapshot captions.
+                        The important thing is that visitors can see the product becoming more concrete over time.
+                    </p>
+                </div>
+
+                <div class="notes-grid">
+                    <article class="note-card fade-in-up delay-1">
+                        <p class="note-label">Now</p>
+                        <h3>Proof surface is ready</h3>
+                        <p>
+                            The page now has a dedicated home for screenshots, demo clips, and public notes.
+                            The structure is in place before the assets arrive.
+                        </p>
+                    </article>
+
+                    <article class="note-card fade-in-up delay-2">
+                        <p class="note-label">Next</p>
+                        <h3>First screenshots</h3>
+                        <p>
+                            The next meaningful update should replace the placeholder frames with stills
+                            that show real authoring surfaces, not brand abstractions.
+                        </p>
+                    </article>
+
+                    <article class="note-card fade-in-up delay-3">
+                        <p class="note-label">Later</p>
+                        <h3>Short workflow video</h3>
+                        <p>
+                            Once motion is ready, the demo block can hold a compact walkthrough that
+                            proves how Logic, Intuition, and Memory work together.
+                        </p>
+                    </article>
                 </div>
             </div>
         </section>
@@ -66,18 +279,26 @@
                     <blockquote>
                         "Simplicity is the ultimate sophistication."
                     </blockquote>
-                    <p>LUMNE gives your time and control back to you. It is not just a tool; it is an extension of your mind.</p>
+                    <p>
+                        LUMNE gives your time and control back to you. It is not just a tool,
+                        it is an environment where thought can become form without losing its shape.
+                    </p>
                 </div>
             </div>
         </section>
     </main>
 
     <footer class="footer fade-in">
-        <div class="container">
-            <p>© 2026 LUMNE Team. Crafted with passion in Tokyo.</p>
+        <div class="container footer-shell">
+            <div>
+                <p>© 2026 LUMNE Team. Crafted with patience in Tokyo.</p>
+            </div>
             <div class="footer-links">
-                <a href="https://github.com/ryo0221/project-lumne">Repository</a>
-                <a href="https://x.com/LumneApp">X (Twitter)</a>
+                <a href="#previews">Previews</a>
+                <a href="#demo">Demo</a>
+                <a href="#notes">Build Notes</a>
+                <a href="https://github.com/ryo0221/project-lumne" target="_blank" rel="noopener noreferrer">Repository</a>
+                <a href="https://x.com/LumneApp" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
             </div>
         </div>
     </footer>

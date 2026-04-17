@@ -18,7 +18,7 @@ The razor-thin vertical streak piercing the heart of the moon represents **Immut
 
 ### III. The Halo of Time (Memory)
 The delicate, ghostly ring surrounding the core represents **Preserved Memory.**
-- **The Role**: A visual testament to the integrated "Time Machine" engine that captures every fleeting thought.
+- **The Role**: A visual testament to the integrated "Time Capsule" engine that captures every fleeting thought.
 - **The Continuity**: It symbolizes the ripples of history, wrapping the present moment in the infinite safety of the past.
 
 ## 3. Geometric Order
