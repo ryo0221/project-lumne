@@ -4,6 +4,10 @@
 
 ### Stop making slides. Start breathing life into your thoughts.
 
+This repository is the public showcase for LUMNE. It publishes the outward
+page, brand assets, and selected product stills. It is not an open source
+release of the Lumne product.
+
 LUMNE is a revolutionary presentation engine that fuses the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living Time Capsule.
 
 ---
@@ -47,13 +51,24 @@ LUMNE is currently under heavy development. We are perfecting the magic to ensur
 
 ---
 
-## 📬 Join the Journey
-We are building LUMNE in public. Follow us as we redefine how the world communicates and thinks.
+## 📬 Follow Lumne
+Lumne is opening in public through selected screenshots, notes, and product
+updates.
 
 - **Twitter/X**: [@LumneApp](https://x.com/LumneApp)
 - **GitHub**: [project-lumne](https://github.com/ryo0221/project-lumne)
 
+## Legal and Usage
+
+- Copyright © 2026 LUMNE Team. All rights reserved.
+- This repository is provided as a public showcase only.
+- No license is granted to copy, modify, redistribute, or create derivative
+  works from the code, copy, screenshots, icons, logos, or other assets in
+  this repository without prior written permission.
+- For press, research reference, partnership, or commercial discussions,
+  contact [@LumneApp](https://x.com/LumneApp).
+
 *"Simplicity is the ultimate sophistication."* — LUMNE
 
 ---
-© 2026 LUMNE Team. Built with passion and a little bit of magic.
+© 2026 LUMNE Team. All rights reserved.
