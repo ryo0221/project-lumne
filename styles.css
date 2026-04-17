@@ -324,6 +324,7 @@ h1 {
 /* Proof */
 .proof,
 .demo,
+.plans,
 .notes,
 .manifesto {
     padding: 120px 0;
@@ -506,6 +507,100 @@ h1 {
         linear-gradient(160deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.02));
 }
 
+/* Plans */
+.plans {
+    background:
+        radial-gradient(circle at 20% 0%, rgba(255, 140, 66, 0.08), transparent 30%),
+        linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 28%);
+}
+
+.plans-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+}
+
+.plan-card {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    min-height: 100%;
+    padding: 28px;
+    border-radius: 28px;
+    border: 1px solid var(--border-soft);
+    background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02)),
+        rgba(255, 255, 255, 0.02);
+    box-shadow: var(--shadow-soft);
+}
+
+.plan-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: baseline;
+}
+
+.plan-name {
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+
+.plan-price {
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    font-weight: 200;
+    letter-spacing: -0.04em;
+    color: var(--text-primary);
+}
+
+.plan-summary {
+    color: var(--text-primary);
+    font-size: 1.04rem;
+    line-height: 1.7;
+}
+
+.plan-points {
+    display: grid;
+    gap: 10px;
+}
+
+.plan-points p {
+    padding-top: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--text-secondary);
+    font-size: 0.96rem;
+}
+
+.plan-cta {
+    margin-top: auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 46px;
+    padding: 0 18px;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 140, 66, 0.34);
+    background: rgba(255, 140, 66, 0.08);
+    color: #ffd1b0;
+    font-size: 0.86rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.plans-note {
+    margin-top: 24px;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+.plans-note a {
+    color: var(--text-primary);
+}
+
 /* Pillars */
 .pillars {
     padding: 120px 0;
@@ -660,6 +755,7 @@ blockquote {
 @media (max-width: 1080px) {
     .hero-shell,
     .demo-grid,
+    .plans-grid,
     .proof-grid,
     .pillars-grid,
     .notes-grid {
@@ -709,6 +805,7 @@ blockquote {
     .hero,
     .proof,
     .demo,
+    .plans,
     .pillars,
     .notes,
     .manifesto {
