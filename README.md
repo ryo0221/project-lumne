@@ -2,13 +2,15 @@
 
 ![LUMNE Header](assets/brand/header.png)
 
-### Stop making slides. Start breathing life into your thoughts.
+### A studio for human thought.
 
 This repository is the public showcase for LUMNE. It publishes the outward
 page, brand assets, and selected product stills. It is not an open source
 release of the Lumne product.
 
-LUMNE is a revolutionary presentation engine that fuses the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living Time Capsule.
+LUMNE is a studio for human thought.
+Today, that studio begins with slide authoring.
+It brings together the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living Time Capsule.
 
 ---
 
@@ -20,10 +22,20 @@ It reflects our belief that unfinished thoughts should be illuminated by structu
 ---
 
 ## 📽️ The Vision
-Traditional presentation tools steal your time. AI generators steal your control. 
-**LUMNE gives everything back to you.**
+Traditional presentation tools cost people time. AI generators can cost them control.
+**LUMNE keeps people in charge.**
 
-Draft your story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with our integrated **Time Capsule**. It’s not just a tool; it’s an extension of your mind.
+Start with the story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with our integrated **Time Capsule**. AI supports structure, iteration, and refinement while the author stays in command.
+
+---
+
+## Why LUMNE Exists
+
+We are living through a moment where more and more work is produced by outsourcing thought to AI and accepting output with no human judgment behind it.
+LUMNE was built in response to that pattern.
+
+LUMNE is not against AI. It is against surrendering thought.
+People should stay in charge of what they mean, what they make, and what they stand behind. AI should help structure, compare, refine, and explore, but it should not replace the act of thinking.
 
 ---
 
@@ -46,8 +58,8 @@ Memory is the foundation of creativity. Every moment is preserved in a secure, l
 LUMNE is currently under heavy development. We are perfecting the magic to ensure it's as stable as it is beautiful.
 
 - **Private by Design**: Your thoughts and data stay on your machine.
-- **Intelligent Co-Pilot**: Powered by Gemini, acting as your silent partner in structural and visual refinement.
-- **Seamless Harmony**: The transition between your words and your visuals is invisible and instantaneous.
+- **Keep People In Charge**: Gemini acts as a silent partner for structure, iteration, and refinement while you remain the author.
+- **Seamless Harmony**: The transition between your words and your visuals stays fluid and immediate.
 
 ---
 
