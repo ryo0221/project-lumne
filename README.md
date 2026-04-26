@@ -26,6 +26,7 @@ Traditional presentation tools cost people time. AI generators can cost them con
 **LUMNE keeps people in charge.**
 
 Start with the story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with our integrated **Time Capsule**. AI supports structure, iteration, and refinement while the author stays in command.
+LUMNE works without requiring an AI API. AI can accelerate the work when you choose to use it, but the authoring loop belongs to you.
 
 ---
 
@@ -58,7 +59,7 @@ Memory is the foundation of creativity. Every moment is preserved in a secure, l
 LUMNE is currently under heavy development. We are perfecting the magic to ensure it's as stable as it is beautiful.
 
 - **Private by Design**: Your thoughts and data stay on your machine.
-- **Keep People In Charge**: Gemini acts as a silent partner for structure, iteration, and refinement while you remain the author.
+- **Keep People In Charge**: The core studio works without AI, and Gemini can act as a silent partner for structure, iteration, and refinement when you choose to use it.
 - **Seamless Harmony**: The transition between your words and your visuals stays fluid and immediate.
 
 ---
