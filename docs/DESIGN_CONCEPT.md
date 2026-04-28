@@ -16,9 +16,9 @@ The razor-thin vertical streak piercing the heart of the moon represents **Immut
 - **The Role**: It is the "spine" of the architecture, providing a rigid, mathematical structure to the organic nature of intuition.
 - **The Precision**: A single-pixel vertical axis. This absolute accuracy instills a sense of trust and certainty in the tools we build.
 
-### III. The Halo of Time (Memory)
+### III. The Halo of Memory
 The delicate, ghostly ring surrounding the core represents **Preserved Memory.**
-- **The Role**: A visual testament to the integrated "Time Capsule" engine that captures every fleeting thought.
+- **The Role**: A visual testament to Lumne's Memory layer, which preserves earlier moments and alternate directions.
 - **The Continuity**: It symbolizes the ripples of history, wrapping the present moment in the infinite safety of the past.
 
 ## 3. Geometric Order

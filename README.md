@@ -10,7 +10,7 @@ release of the Lumne product.
 
 LUMNE is a studio for human thought.
 Today, that studio begins with slide authoring.
-It brings together the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living Time Capsule.
+It brings together the **logic** of structured text, the **intuition** of a tactile canvas, and the **memory** of a living Memory system.
 
 ---
 
@@ -25,7 +25,7 @@ It reflects our belief that unfinished thoughts should be illuminated by structu
 Traditional presentation tools cost people time. AI generators can cost them control.
 **LUMNE keeps people in charge.**
 
-Start with the story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with our integrated **Time Capsule**. AI supports structure, iteration, and refinement while the author stays in command.
+Start with the story in pure **Plain Text**, sculpt your visuals on a fluid canvas, and never fear a mistake with integrated **Memory**. AI supports structure, iteration, and refinement while the author stays in command.
 LUMNE works without requiring an AI API. AI can accelerate the work when you choose to use it, but the authoring loop belongs to you.
 
 ---
@@ -50,8 +50,8 @@ Logic is the skeleton of persuasion. Draft your outline in **Plain Text**. No bo
 ### 2. Tactile Intuition (The Living Canvas)
 Intuition is the soul of design. Elements on your slide respond to your touch. Move a block, and the layout breathes around it. It’s direct manipulation, guided by a silent AI that understands the geometry of beauty.
 
-### 3. Infinite Safety (Time Capsule)
-Memory is the foundation of creativity. Every moment is preserved in a secure, local-first **Time Capsule**. Travel back to an earlier direction, explore alternative paths, and branch your ideas without ever fearing a "wrong" move.
+### 3. Infinite Safety (Memory)
+Memory is the foundation of creativity. Every moment is preserved in a secure, local-first memory layer. Travel back to an earlier direction, explore alternative paths, and branch your ideas without ever fearing a "wrong" move.
 
 ---
 
